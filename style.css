@@ -2,7 +2,8 @@ body {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: gray;
+    background-color: purple;
+    box-shadow: 0 0 15px gray;
 }
 
 .container {
