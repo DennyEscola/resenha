@@ -50,6 +50,11 @@ body {
     border: 2px solid purple;
     object-fit: cover;
     box-shadow: 0 0 15px purple;
+    transition: transform 0.1s ease;
+}
+
+.ator:hover img{
+    transform: scale(1.025);
 }
 
 .titulo-sinopse {
