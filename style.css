@@ -41,6 +41,7 @@ body {
 
 .ator {
     text-align: center;
+    font-weight: bold;
 }
 
 .ator img {
@@ -55,6 +56,10 @@ body {
 
 .ator:hover img{
     transform: scale(1.025);
+}
+
+.ator:hover {
+    font-weight: normal;
 }
 
 .titulo-sinopse {
